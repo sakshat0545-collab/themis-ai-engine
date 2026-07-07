@@ -1,0 +1,60 @@
+# =========================
+# FastAPI Backend
+# =========================
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+pydantic-settings
+
+# =========================
+# AI Stack
+# =========================
+langchain
+langchain-community
+langchain-core
+
+# =========================
+# Local LLM
+# =========================
+ollama
+
+# =========================
+# Vector Database
+# =========================
+chromadb
+
+# =========================
+# Embeddings
+# =========================
+sentence-transformers
+
+# =========================
+# Database
+# =========================
+pymongo
+
+# =========================
+# Machine Learning
+# =========================
+scikit-learn
+numpy
+pandas
+
+# =========================
+# Experiment Tracking
+# =========================
+mlflow
+
+# =========================
+# Utilities
+# =========================
+requests
+httpx
+tqdm
+rich
+
+# =========================
+# Testing
+# =========================
+pytest
